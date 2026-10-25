@@ -95,6 +95,8 @@ This project explores how AI can also be used to detect AI-generated media, cont
 
 Skills: HTML · JavaScript · PHP · MySQL · Web Development · Front-End Development · Back-End Web Development · Network Security · Python (Programming Language) · Machine Learning · Fast API
 
+[View Project](https://myvoiceguard.netlify.app/)
+
 ---
 
 ## GitHub Stats
